@@ -1,0 +1,72 @@
+
+ mag place                                                  updated
+ --- -----                                                  -------
+7.10 118 km S of Isangel, Vanuatu                           23:26:00.886
+7.60 19 km E of Gamut, Philippines                          23:37:34.835
+7.10 Banda Sea                                              23:21:58.743
+7.10 180 km NNE of Gili Air, Indonesia                      23:23:47.678
+7.20 106 km S of Sand Point, Alaska                         23:40:10.190
+7.20 274 km SW of Houma, Tonga                              23:00:59.154
+7.10 southeast of the Loyalty Islands                       22:56:56.134
+7.70 southeast of the Loyalty Islands                       22:56:56.136
+7.60 82 km WNW of Hihifo, Tonga                             22:56:45.339
+7.10 171 km SSE of Teluk Dalam, Indonesia                   22:55:03.990
+7.10 Kermadec Islands, New Zealand                          22:55:03.992
+   7 Java, Indonesia                                        22:53:04.660
+   7 40 km ESE of Ambunti, Papua New Guinea                 23:22:40.691
+   7 Kermadec Islands region                                22:47:42.482
+7.50 Elbistan earthquake, Kahramanmaras earthquake sequence 23:31:22.182
+7.80 Pazarcik earthquake, Kahramanmaras earthquake sequence 23:39:22.929
+   7 156 km NW of Tobelo, Indonesia                         23:08:09.231
+7.60 Pulau Pulau Tanimbar, Indonesia                        22:41:11.287
+   7 23 km WNW of Port-Olry, Vanuatu                        22:38:49.217
+   7 18 km SW of Malango, Solomon Islands                   22:31:45.844
+   7 Fiji region                                            23:22:39.848
+7.30 205 km ESE of Neiafu, Tonga                            22:30:32.924
+   7 south of the Fiji Islands                              22:30:32.923
+7.60 35 km SSW of Aguililla, Mexico                         23:34:45.545
+   7 209 km SSE of Isangel, Vanuatu                         23:34:45.494
+7.60 70 km E of Kainantu, Papua New Guinea                  22:21:29.893
+   7 11 km NE of Bantay, Philippines                        23:32:41.328
+7.20 10 km W of Azángaro, Peru                              22:05:46.985
+   7 southeast of the Loyalty Islands                       22:07:15.236
+7.30 57 km ENE of Namie, Japan                              23:12:54.814
+7.30 125 km NNE of Lospalos, Timor Leste                    21:44:12.185
+7.30 Flores Sea                                             23:15:23.497
+7.50 43 km NNW of Barranca, Peru                            23:35:35.176
+7.30 Vanuatu region                                         21:31:57.084
+   7 Acapulco, Mexico                                       23:07:53.871
+7.10 South Sandwich Islands region                          21:26:26.487
+7.20 Nippes, Haiti                                          23:34:45.970
+8.10 South Sandwich Islands region                          23:15:45.069
+7.50 South Sandwich Islands region                          21:25:00.397
+7.10 60 km ENE of Pondaguitan, Philippines                  23:37:34.888
+8.20 Alaska Peninsula                                       23:17:38.823
+7.30 Southern Qinghai, China                                23:40:32.487
+   7 30 km E of Ishinomaki, Japan                           22:07:10.607
+8.10 Kermadec Islands, New Zealand                          21:32:24.454
+7.40 Kermadec Islands, New Zealand                          21:33:46.253
+7.30 182 km NE of Gisborne, New Zealand                     21:32:18.683
+7.10 73 km ENE of Namie, Japan                              23:15:04.110
+7.70 southeast of the Loyalty Islands                       21:30:16.334
+   7 211 km SE of Pondaguitan, Philippines                  23:19:20.201
+   7 13 km NNE of Néon Karlovásion, Greece                  23:26:15.674
+7.60 99 km SE of Sand Point, Alaska                         22:45:33.534
+7.80 99 km SSE of Perryville, Alaska                        23:15:44.968
+   7 114 km NNW of Popondetta, Papua New Guinea             21:44:49.006
+7.40 9 km SE of Santa María Xadani, Mexico                  23:14:18.540
+7.40 south of the Kermadec Islands                          20:24:34.564
+7.50 221 km SSE of Severo-Kuril’sk, Russia                  22:06:39.431
+   7 95 km ENE of Kuril’sk, Russia                          21:44:48.877
+7.70 123 km NNW of Lucea, Jamaica                           23:15:45.022
+7.10 141 km NW of Ternate, Indonesia                        20:29:30.353
+7.20 155 km SSE of Sofifi, Indonesia                        20:20:11.588
+7.10 Ridgecrest Earthquake Sequence                         23:40:04.853
+7.30 Banda Sea                                              20:17:20.221
+7.30 Kermadec Islands, New Zealand                          19:32:57.991
+   8 78 km NE of Navarro, Peru                              23:15:44.938
+7.60 48 km NE of Kokopo, Papua New Guinea                   20:16:56.241
+7.10 32 km NW of Bulolo, Papua New Guinea                   20:17:20.281
+   7 22 km NNE of Azángaro, Peru                            21:49:45.191
+7.50 115 km ESE of Palora, Ecuador                          20:16:56.235
+

@@ -1,0 +1,122 @@
+
+mag place                                          updated
+--- -----                                          -------
+  5 30 km ENE of Massawa, Eritrea                  23:39:59.623
+  5 Mid-Indian Ridge                               23:37:59.556
+  5 81 km SE of Honiara, Solomon Islands           23:39:55.783
+  5 182 km S of Nusa Dua, Indonesia                23:38:21.113
+  5 South Sandwich Islands region                  23:39:59.783
+  5 62 km E of Kinablangan, Philippines            23:39:59.005
+  5 northern Mid-Atlantic Ridge                    23:39:56.885
+  5 10 km S of Hualien City, Taiwan                23:40:33.404
+  5 21 km SSE of Hualien City, Taiwan              23:38:21.103
+  5 28 km S of Hualien City, Taiwan                23:37:37.851
+  5 27 km S of Hualien City, Taiwan                23:38:20.492
+  5 35 km S of Hualien City, Taiwan                23:37:54.878
+  5 207 km NNW of Saipan, Northern Mariana Islands 23:40:00.434
+  5 Balleny Islands region                         23:39:44.126
+  5 17 km ESE of Union, Philippines                23:39:38.788
+  5 133 km ESE of Ust’-Kamchatsk Staryy, Russia    23:39:37.915
+  5 95 km ENE of Port-Olry, Vanuatu                23:39:43.997
+  5 western Indian-Antarctic Ridge                 23:38:39.139
+  5 southeast Indian Ridge                         23:37:00.518
+  5 5 km ESE of Uken, Japan                        23:38:45.602
+  5 237 km SE of Sarangani, Philippines            23:37:04.878
+  5 Mid-Indian Ridge                               23:37:32.065
+  5 60 km W of Patacamaya, Bolivia                 23:37:57.471
+  5 46 km WNW of Kuqa, China                       23:36:42.938
+  5 48 km WNW of Yongning, China                   23:39:49.399
+  5 65 km WNW of Kuqa, China                       23:36:03.248
+  5 2 km S of Tenancingo, El Salvador              23:38:56.575
+  5 49 km SSE of Dompu, Indonesia                  23:37:11.070
+  5 22 km NNE of Ambunti, Papua New Guinea         23:36:02.639
+  5 251 km N of Agats, Indonesia                   23:36:08.092
+  5 30 km SW of Zhaotong, China                    23:36:47.955
+  5 57 km SE of Hualien City, Taiwan               23:36:48.553
+  5 48 km WSW of El Palmarcito, Mexico             23:37:42.854
+  5 14 km NE of Hualien City, Taiwan               23:37:40.706
+  5 northern Mid-Atlantic Ridge                    23:36:48.259
+  5 central Mid-Atlantic Ridge                     23:36:06.074
+  5 34 km SW of Urakawa, Japan                     23:36:54.026
+  5 36 km SSW of Padam, India                      23:37:04.703
+  5 south of the Kermadec Islands                  23:36:40.641
+  5 22 km NNW of Oxapampa, Peru                    23:37:40.808
+  5 Mid-Indian Ridge                               23:37:40.690
+  5 28 km N of Hualien City, Taiwan                23:37:40.576
+  5 6 km E of Hualien City, Taiwan                 23:37:40.012
+  5 11 km NNW of Hualien City, Taiwan              23:37:39.780
+  5 18 km E of Hualien City, Taiwan                23:37:33.349
+  5 25 km NNE of Hualien City, Taiwan              23:37:33.431
+  5 southeast of the Loyalty Islands               23:34:46.074
+  5 42 km E of Rasht, Tajikistan                   23:35:57.794
+  5 northern Mid-Atlantic Ridge                    23:36:04.327
+  5 103 km NNW of Port-Vila, Vanuatu               23:35:35.091
+  5 260 km NE of Saipan, Northern Mariana Islands  23:39:52.254
+  5 58 km SW of Ashkāsham, Afghanistan             23:36:34.824
+  5 138 km S of Bambanglipuro, Indonesia           23:35:34.482
+  5 south of the Fiji Islands                      23:36:24.162
+  5 23 km NNE of Marechal Thaumaturgo, Brazil      23:36:44.921
+  5 33 km SSE of Cuya, Chile                       23:36:53.580
+  5 55 km ENE of Ambunti, Papua New Guinea         23:36:49.872
+  5 97 km E of Tuapejat, Indonesia                 23:37:43.232
+  5 39 km S of Kirakira, Solomon Islands           23:36:47.243
+  5 46 km E of Tatsugō, Japan                      23:40:06.738
+  5 northern Mid-Atlantic Ridge                    23:40:06.744
+  5 southeast Indian Ridge                         23:40:06.743
+  5 128 km WNW of Puerto, Chile                    23:40:06.736
+  5 109 km SE of Modisi, Indonesia                 23:40:06.736
+  5 Banda Sea                                      23:40:06.736
+  5 Chagos Archipelago region                      23:40:06.748
+  5 126 km NE of Hihifo, Tonga                     23:40:06.747
+  5 75 km WNW of Tamarindo, Costa Rica             23:40:06.746
+  5 west of Macquarie Island                       23:39:39.450
+  5 184 km ESE of Kimbe, Papua New Guinea          23:39:39.450
+  5 132 km E of Neiafu, Tonga                      23:39:39.450
+  5 277 km ENE of Lospalos, Timor Leste            23:39:39.450
+  5 80 km NE of Sanana, Indonesia                  23:39:39.450
+  5 223 km NNE of Nagqu, China                     23:39:39.450
+  5 64 km ENE of Kinablangan, Philippines          23:39:39.450
+  5 47 km ENE of Kinablangan, Philippines          23:39:39.450
+  5 30 km WSW of Lata, Solomon Islands             23:39:39.450
+  5 206 km SE of Hihifo, Tonga                     23:39:39.450
+  5 192 km ENE of Neiafu, Tonga                    23:39:39.450
+  5 Southwest Indian Ridge                         23:38:57.635
+  5 Easter Island region                           23:38:57.635
+  5 south of the Kermadec Islands                  23:38:57.635
+  5 South Sandwich Islands region                  23:38:57.635
+  5 109 km WNW of Malango, Solomon Islands         23:38:57.635
+  5 104 km SSW of Adak, Alaska                     23:39:45.194
+  5 12 km WNW of Puerto Morazán, Nicaragua         23:38:57.636
+  5 Owen Fracture Zone region                      23:38:57.636
+  5 48 km SSE of Tari, Papua New Guinea            23:37:46.501
+  5 10 km N of Port-Olry, Vanuatu                  23:37:46.501
+  5 136 km E of Yamada, Japan                      23:37:46.501
+  5 56 km NNW of Bandar Abbas, Iran                23:37:46.501
+  5 131 km W of Aykol, China                       23:37:46.501
+  5 South Sandwich Islands region                  23:37:46.501
+  5 84 km SSE of Yonakuni, Japan                   23:37:46.501
+  5 142 km ENE of Puerto Baquerizo Moreno, Ecuador 23:37:46.501
+  5 33 km SSW of Chimbote, Peru                    23:37:46.501
+  5 290 km ENE of Lospalos, Timor Leste            23:37:46.501
+  5 119 km ESE of Kokopo, Papua New Guinea         23:37:46.501
+  5 100 km NNW of Coquimbo, Chile                  23:36:36.972
+  5 southeast Indian Ridge                         23:36:36.972
+  5 215 km ENE of Georgetown, Saint Helena         23:36:36.972
+  5 26 km NW of Isangel, Vanuatu                   23:36:36.972
+  5 182 km SSW of Camaná, Peru                     23:36:04.169
+  5 57 km E of Loreto, Mexico                      23:36:04.166
+  5 central Mid-Atlantic Ridge                     23:36:04.166
+  5 53 km ESE of Aras-asan, Philippines            23:36:04.161
+  5 46 km E of Aras-asan, Philippines              23:36:04.161
+  5 24 km ENE of Lata, Solomon Islands             23:36:04.161
+  5 46 km SW of La Libertad, El Salvador           23:36:04.161
+  5 West Chile Rise                                23:36:04.160
+  5 Reykjanes Ridge                                23:36:04.158
+  5 43 km E of Nishinoomote, Japan                 23:36:04.157
+  5 292 km E of Vao, New Caledonia                 23:36:04.157
+  5 99 km E of Tuapejat, Indonesia                 23:36:04.156
+  5 135 km WNW of Tobelo, Indonesia                23:35:03.697
+  5 235 km SSW of Yanglong, China                  23:35:03.694
+  5 116 km NE of Hihifo, Tonga                     23:35:03.682
+  5 256 km SW of Merizo Village, Guam              23:39:44.614
+

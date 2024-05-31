@@ -1,0 +1,1 @@
+Avreage intensity based on CDI (Community Internet Intensity Map) is 1.51027568922306. Average intensity based on magnitude measurements is 5.28456140350877
